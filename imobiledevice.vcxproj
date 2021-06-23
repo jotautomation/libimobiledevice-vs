@@ -142,6 +142,7 @@
     <ClInclude Include="libimobiledevice\include\libimobiledevice\installation_proxy.h" />
     <ClInclude Include="libimobiledevice\include\libimobiledevice\libimobiledevice.h" />
     <ClInclude Include="libimobiledevice\include\libimobiledevice\lockdown.h" />
+    <ClInclude Include="libimobiledevice\include\libimobiledevice\mcinstall.h" />
     <ClInclude Include="libimobiledevice\include\libimobiledevice\misagent.h" />
     <ClInclude Include="libimobiledevice\include\libimobiledevice\mobileactivation.h" />
     <ClInclude Include="libimobiledevice\include\libimobiledevice\mobilebackup.h" />
@@ -168,6 +169,7 @@
     <ClInclude Include="libimobiledevice\src\idevice.h" />
     <ClInclude Include="libimobiledevice\src\installation_proxy.h" />
     <ClInclude Include="libimobiledevice\src\lockdown.h" />
+    <ClInclude Include="libimobiledevice\src\mcinstall.h" />
     <ClInclude Include="libimobiledevice\src\misagent.h" />
     <ClInclude Include="libimobiledevice\src\mobilebackup.h" />
     <ClInclude Include="libimobiledevice\src\mobilebackup2.h" />
@@ -199,6 +201,7 @@
     <ClCompile Include="libimobiledevice\src\idevice.c" />
     <ClCompile Include="libimobiledevice\src\installation_proxy.c" />
     <ClCompile Include="libimobiledevice\src\lockdown.c" />
+    <ClCompile Include="libimobiledevice\src\mcinstall.c" />
     <ClCompile Include="libimobiledevice\src\misagent.c" />
     <ClCompile Include="libimobiledevice\src\mobileactivation.c" />
     <ClCompile Include="libimobiledevice\src\mobilebackup.c" />
